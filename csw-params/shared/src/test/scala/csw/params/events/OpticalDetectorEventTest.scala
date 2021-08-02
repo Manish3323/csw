@@ -1,7 +1,7 @@
 package csw.params.events
 
 import csw.params.core.generics.KeyType.StringKey
-import csw.params.core.models.{ExposureId, ExposureIdType, ObsId}
+import csw.params.core.models.{ExposureId, ObsId}
 import csw.prefix.models.Prefix
 import org.scalatest.funspec.AnyFunSpec
 import org.scalatest.matchers.should.Matchers
@@ -9,8 +9,8 @@ import org.scalatest.prop.TableDrivenPropertyChecks.Table
 
 class OpticalDetectorEventTest extends AnyFunSpec with Matchers {
   describe("OpticalDetectorEvent") {
-    val sourcePrefix: Prefix       = Prefix("ESW.test")
-    val exposureId: ExposureIdType = ExposureId("2022A-001-123-IRIS-IMG-DRK1-0023")
+    val sourcePrefix: Prefix   = Prefix("ESW.test")
+    val exposureId: ExposureId = ExposureId("2022A-001-123-IRIS-IMG-DRK1-0023")
 
     it("create Observe Events with obsId | ESW-118, CSW-119") {
       Table(
@@ -69,9 +69,9 @@ class OpticalDetectorEventTest extends AnyFunSpec with Matchers {
     }
 
     it("create OpticalDetectorExposureData event | ESW-118, CSW-119") {
-      val exposureTime                   = 23923L
-      val remainingExposureTime          = 324335L
-      val exposureIdType: ExposureIdType = ExposureId("2022A-001-123-IRIS-IMG-DRK1-0023")
+      val exposureTime               = 23923L
+      val remainingExposureTime      = 324335L
+      val exposureIdType: ExposureId = ExposureId("2022A-001-123-IRIS-IMG-DRK1-0023")
       val observeEvent = OpticalDetectorEvent.exposureData(
         sourcePrefix,
         exposureIdType,
