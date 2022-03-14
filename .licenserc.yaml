@@ -8,6 +8,8 @@ header:
     - "licenses"
     - "**/*.md"
     - "**/*.json"
+    - "**/*.cbor"
+    - "**/*.http"
     - "**/*.yml"
     - "**/*.conf"
     - "**/*.hosts"
