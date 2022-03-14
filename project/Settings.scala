@@ -1,3 +1,8 @@
+/*
+ * Copyright (c) [year] Thirty Meter Telescope International Observatory
+ * SPDX-License-Identifier: Apache-2.0
+ */
+
 import java.io.File
 
 import com.typesafe.sbt.MultiJvmPlugin.MultiJvmKeys.MultiJvm

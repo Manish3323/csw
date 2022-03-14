@@ -1,4 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
+<!--
+  ~ Copyright (c) [year] Thirty Meter Telescope International Observatory
+  ~ SPDX-License-Identifier: Apache-2.0
+-->
+
 
 <server xmlns="urn:jboss:domain:9.0">
     <extensions>

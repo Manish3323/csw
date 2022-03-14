@@ -1,3 +1,8 @@
+/*
+ * Copyright (c) [year] Thirty Meter Telescope International Observatory
+ * SPDX-License-Identifier: Apache-2.0
+ */
+
 package csw.location.server.http
 
 import akka.http.scaladsl.server.Directives._

@@ -1,4 +1,7 @@
 #!/usr/bin/env bash
+# Copyright (c) [year] Thirty Meter Telescope International Observatory
+# SPDX-License-Identifier: Apache-2.0
+
 
 # DEOPSCSW-19: CRDT with Multiple NICs
 # This script exercises below steps :

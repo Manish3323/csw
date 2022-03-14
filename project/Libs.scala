@@ -1,3 +1,8 @@
+/*
+ * Copyright (c) [year] Thirty Meter Telescope International Observatory
+ * SPDX-License-Identifier: Apache-2.0
+ */
+
 import org.portablescala.sbtplatformdeps.PlatformDepsPlugin.autoImport._
 import sbt.Def.{setting => dep}
 import sbt._

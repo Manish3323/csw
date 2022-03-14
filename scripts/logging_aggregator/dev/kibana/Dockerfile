@@ -1,3 +1,6 @@
+# Copyright (c) [year] Thirty Meter Telescope International Observatory
+# SPDX-License-Identifier: Apache-2.0
+
 ARG ELK_VERSION
 
 # https://github.com/elastic/kibana-docker

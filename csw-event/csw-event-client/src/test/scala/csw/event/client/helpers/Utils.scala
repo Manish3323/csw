@@ -1,3 +1,8 @@
+/*
+ * Copyright (c) [year] Thirty Meter Telescope International Observatory
+ * SPDX-License-Identifier: Apache-2.0
+ */
+
 package csw.event.client.helpers
 
 import csw.params.core.generics.KeyType.{IntKey, LongKey}

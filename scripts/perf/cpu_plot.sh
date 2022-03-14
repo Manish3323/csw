@@ -1,4 +1,7 @@
 #!/usr/bin/env bash
+# Copyright (c) [year] Thirty Meter Telescope International Observatory
+# SPDX-License-Identifier: Apache-2.0
+
 
 # Before running this script, make sure that you have install gnuplot with qt and cairo
 # Installation:

@@ -1,4 +1,7 @@
 #!/usr/bin/env bash
+# Copyright (c) [year] Thirty Meter Telescope International Observatory
+# SPDX-License-Identifier: Apache-2.0
+
 
 SCRIPT_DIR="$(cd "$(dirname "${BASH_SOURCE[0]}")" >/dev/null 2>&1 && pwd)"
 ROOT_DIR="$(dirname "$SCRIPT_DIR")"

@@ -1,4 +1,9 @@
 /*
+ * Copyright (c) [year] Thirty Meter Telescope International Observatory
+ * SPDX-License-Identifier: Apache-2.0
+ */
+
+/*
  * Copyright 2014 - 2016 Real Logic Ltd.
  *
  * Licensed under the Apache License, Version 2.0 (the "License");

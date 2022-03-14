@@ -1,3 +1,6 @@
+# Copyright (c) [year] Thirty Meter Telescope International Observatory
+# SPDX-License-Identifier: Apache-2.0
+
 # Various sinks can be created in the following way. More informations can be found at https://github.com/guangie88/spdlog_setup#toml-configuration-example
 [[sink]]
 name = "basic_logger"

@@ -1,4 +1,7 @@
 #!/usr/bin/env bash
+# Copyright (c) [year] Thirty Meter Telescope International Observatory
+# SPDX-License-Identifier: Apache-2.0
+
 #
 # Starts services required by CSW and registers them with the location service.
 # This script uses the csw-location-agent app to start Event Service and register it with the Location Service

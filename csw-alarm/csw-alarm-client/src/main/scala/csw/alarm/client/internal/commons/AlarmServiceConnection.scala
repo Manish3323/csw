@@ -1,3 +1,8 @@
+/*
+ * Copyright (c) [year] Thirty Meter Telescope International Observatory
+ * SPDX-License-Identifier: Apache-2.0
+ */
+
 package csw.alarm.client.internal.commons
 
 import csw.location.api.models.{ComponentId, ComponentType}

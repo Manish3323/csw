@@ -1,3 +1,8 @@
+/*
+ * Copyright (c) [year] Thirty Meter Telescope International Observatory
+ * SPDX-License-Identifier: Apache-2.0
+ */
+
 package csw.aas.core
 
 import csw.aas.core.TokenVerificationFailure.{InvalidToken, TokenExpired}
