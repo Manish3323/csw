@@ -7,10 +7,17 @@ header:
     - "dist"
     - "licenses"
     - "**/*.md"
+    - "**/*.yml"
+    - "**/*.conf"
+    - "**/*.hosts"
+    - "*.*"
     - "LICENSE"
     - "NOTICE"
     - "jenkins/**"
+    - ".github/**"
+    - "**/target/**"
     - "notes/**"
     - "tools/**"
+
 
   comment: on-failure
