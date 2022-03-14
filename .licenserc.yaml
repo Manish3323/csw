@@ -1,7 +1,7 @@
 header:
   license:
     content: |
-      Copyright (c) [year] Thirty Meter Telescope International Observatory
+      Copyright (c) 2023 Thirty Meter Telescope International Observatory
       SPDX-License-Identifier: Apache-2.0
   paths-ignore:
     - "dist"
