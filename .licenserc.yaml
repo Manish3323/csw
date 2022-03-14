@@ -1,8 +1,8 @@
 header:
-  license:
-    spdx-id: Apache-2.0
-    copyright-owner: Thirty Meter Telescope International Observatory
-  content: ''
+  content: |
+    Copyright (c) 2022 Thirty Meter Telescope International Observatory
+    SPDX-License-Identifier: Apache-2.0
+
   paths-ignore:
     - "dist"
     - "licenses"
