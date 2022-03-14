@@ -1,0 +1,16 @@
+header:
+  license:
+    spdx-id: Apache-2.0
+    copyright-owner: Thirty Meter Telescope International Observatory
+  content: ''
+  paths-ignore:
+    - "dist"
+    - "licenses"
+    - "**/*.md"
+    - "LICENSE"
+    - "NOTICE"
+    - "jenkins/**"
+    - "notes/**"
+    - "tools/**"
+
+  comment: on-failure
