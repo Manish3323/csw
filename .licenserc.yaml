@@ -17,11 +17,10 @@ header:
     - "LICENSE"
     - "NOTICE"
     - "jenkins/**"
-    - ".github/**"
     - "**/target/**"
     - "notes/**"
     - "tools/**"
-    - "**/empty"
+    - "**/empty.scala"
 
 
   comment: on-failure
