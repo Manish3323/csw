@@ -7,6 +7,7 @@ header:
     - "dist"
     - "licenses"
     - "**/*.md"
+    - "**/*.json"
     - "**/*.yml"
     - "**/*.conf"
     - "**/*.hosts"
